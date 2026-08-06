@@ -1,0 +1,8 @@
+# CODEOWNERS for the repository
+#
+# The LAST matching pattern for a given path takes precedence.
+# CODEOWNERS only enforces reviews when the ruleset / branch protection has
+# "Require review from Code Owners" enabled.
+
+# Default owner for everything in the repo
+*                                   @semilabPublic/semilab-public-team
